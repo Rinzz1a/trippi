@@ -1,0 +1,65 @@
+body {
+background-color:white
+}
+.fon_text {
+background-color:white;
+color:black
+font-family: "palatino Linotype", "Book Antiqua", palatino, serif;
+}
+.m {
+margin: 55px;
+padding: 45px;
+}
+.H1 {
+  font-size:210%;
+  font-family: Playfair;
+  color: black;
+
+}
+.H2{
+  font-size:160%;
+  font-family: "palatino Linotype", "Book Antiqua", palatino, serif;
+  color: black;
+}
+* {
+margin:0;
+padding:0;
+}
+    body {
+     Height:100%;
+     width: 100%;
+}
+
+container {
+     Height:90%;
+     width: 80%;
+     position: absolute;
+     margin:0;
+     padding:0;
+
+}
+figure{
+      Height:100%;
+      width: 100%;
+      background-size:cover;
+      background-pozition:center;
+      
+      
+}
+figure:nth-child(1){
+background-image:url("http://ic.pics.livejournal.com/antenario/10792369/205476/original.jpg");
+}
+figure:nth-child(2){
+background-image: url("https://spbinteres.ru/wp-content/uploads/2019/09/ll-1.jpg");
+
+}
+figure:nth-child(3){
+background-image:url("https://travel-or-die.ru/wp-content/uploads/2016/02/rajon-kaleichi-staryj-gorod-antaliya.jpg");
+
+}
+figure:nth-child(4){
+background-image:url("https://horosho-tam.ru/pics/74/d3/61408eb49433ac4a54a5d374.jpg");
+}
+img {
+  vertical-align: middle;
+}
